@@ -1,0 +1,7 @@
+platform :ios, '10.0'
+use_frameworks!
+
+pod 'EZLoadingActivity' #Stable release for Swift 3.0
+
+pod 'EZLoadingActivity', :git => 'https://github.com/goktugyil/EZLoadingActivity.git' #Latest release for Swift 3.0
+pod 'EZLoadingActivity', '~> 0.8' #For Swift 2.2
